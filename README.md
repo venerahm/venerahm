@@ -1,7 +1,8 @@
-<h2> Hi, I'm Thai Braga! <h2>
+<h2> Hi, I'm Hanna Venera! <h2>
 
 [![Linkedin: venerahm](https://img.shields.io/badge/-venerahm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venerahm/)](https://www.linkedin.com/in/hanna-venera-197720196/)
 [![GitHub venerahm](https://img.shields.io/github/followers/venerahm?label=follow&style=social)](https://github.com/venerahm)
+[![Website](https://img.shields.io/badge/Website-venerahm.github.io-blue?logo=google-chrome&style=social)](https://venerahm.github.io/)
 
 ### A little more about me... 
 
