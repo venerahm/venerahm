@@ -32,3 +32,7 @@ say_hi <- function(person) {
 
 say_hi(biostat_candidate)
 ``` r
+
+![Hanna's github stats](https://github-readme-stats.vercel.app/api?username=venerahm&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=venerahm.venerahm)
