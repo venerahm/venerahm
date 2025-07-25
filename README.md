@@ -3,7 +3,8 @@
 <img align='right' src="https://ih1.redbubble.net/image.1241266589.4196/st,small,507x507-pad,600x600,f8f8f8.u21.jpg" width="230">
 
 PhD Candidate at <a href="https://sph.umich.edu/biostat/">University of Michigan</a> <img src="https://media.giphy.com/media/Cz6xnJ5sutPDWVDUGj/giphy.gif" width="30">
-Ann Arbor, MI <a href="https://cdn.dribbble.com/users/34582/screenshots/2907844/michigan.gif" width="30">
+
+Ann Arbor, MI <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI5cWlrc3lncXl5eTIydXI4bjhkMnRsbHU1MzljcWJpNTN0amYyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKqLtk6ZoCAYqPu/giphy.gif" width="30">
 
 [![Linkedin: venerahm](https://img.shields.io/badge/-venerahm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venerahm/)](https://www.linkedin.com/in/hanna-venera-197720196/)
 [![GitHub venerahm](https://img.shields.io/github/followers/venerahm?label=follow&style=social)](https://github.com/venerahm)
