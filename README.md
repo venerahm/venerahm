@@ -34,3 +34,5 @@ say_hi(biostat_candidate)
 ``` r
 
 ![venerahm's github stats](https://github-readme-stats.vercel.app/api?username=venerahm&hide=issues&show_icons=true)
+
+https://github-readme-stats.vercel.app/api?username=venerahm&hide=issues&show_icons=true
