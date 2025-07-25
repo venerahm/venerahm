@@ -1,8 +1,9 @@
 <h2> Hi, I'm Hanna Venera! <h2>
 
-<p><em>PhD Candidate at <a href="https://sph.umich.edu/biostat/">University of Michigan</a>
-<img src="https://media.giphy.com/media/xT9DPIlB4l2dn4Ha4Q/giphy.gif" width="30">
-</em></p>
+<span style="font-size:0.9em; font-style:italic; font-weight:normal;">
+  PhD Candidate at <a href="https://sph.umich.edu/biostat/">University of Michigan</a>
+  <img src="https://media.giphy.com/media/Cz6xnJ5sutPDWVDUGj/giphy.gif" width="30">
+</span>
 
 [![Linkedin: venerahm](https://img.shields.io/badge/-venerahm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venerahm/)](https://www.linkedin.com/in/hanna-venera-197720196/)
 [![GitHub venerahm](https://img.shields.io/github/followers/venerahm?label=follow&style=social)](https://github.com/venerahm)
