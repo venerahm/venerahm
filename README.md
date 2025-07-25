@@ -1,6 +1,6 @@
 # Hi, I'm Hanna Venera!
 
-<img align='right' src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" width="230">
+<img align='right' src="https://ih1.redbubble.net/image.1241266589.4196/st,small,507x507-pad,600x600,f8f8f8.u21.jpg" width="230">
 
 ### PhD Candidate at <a href="https://sph.umich.edu/biostat/">University of Michigan</a> <img src="https://media.giphy.com/media/Cz6xnJ5sutPDWVDUGj/giphy.gif" width="30">
 
