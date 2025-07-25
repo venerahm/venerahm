@@ -33,6 +33,6 @@ say_hi <- function(person) {
 }
 
 say_hi(biostat_candidate)
-``` r
+```
 
 ![venerahm's github stats](https://github-readme-stats.vercel.app/api?username=venerahm&hide=issues&show_icons=true&cache_seconds=1800)
